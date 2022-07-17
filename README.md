@@ -1,2 +1,3 @@
 # tibet-riichi
-The start to a mahjong teaching tool. For now: dealing and hand scoring algorithms
+The start to a mahjong teaching web-app. 
+For now: dealing and hand scoring algorithms.
